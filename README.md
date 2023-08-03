@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, me llamo Xavier Ortigosa Cortés</h1>
-<h3 align="center">Soy graduado en diseño y desarrollo de videojuegos</h3>
+<h1 align="center">Hi 👋, my name is Xavier Ortigosa Cortés</h1>
+<h3 align="center">I am a graduate in game design and development</h3>
 
-- 🌱 Estoy formandome en desarrollo web **HTML, CSS, JS...**
+- 🌱 Currently working and making web development **HTML, CSS, JS...**
 
-- 👨‍💻 Mis proyectos los encontrarás en [https://github.com/XavierCortes98](https://github.com/XavierCortes98)
+- 👨‍💻 You will find my projects in: [https://github.com/XavierCortes98](https://github.com/XavierCortes98)
 
-- 📫 Para contactar mediante **contacto.xaviercortes@gmail.com**
+- 📫 You can contact with me throught  **contacto.xaviercortes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
